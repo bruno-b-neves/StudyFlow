@@ -1,0 +1,71 @@
+Título
+
+ADR-005 – Grid Strategy
+
+Status
+
+Accepted
+
+Contexto
+
+O StudyFlow utiliza Bootstrap como framework CSS, porém adota a Grid do Material Design 3 como referência de design.
+
+Decisão
+
+O Design System utilizará:
+
+Mobile
+4 Columns
+
+Tablet
+8 Columns
+
+Desktop
+12 Columns
+
+A implementação poderá utilizar a Grid de 12 colunas do Bootstrap internamente, porém os layouts deverão respeitar a organização definida pelo Material Design.
+
+Consequências
+
+✓ Interface consistente.
+
+✓ Compatível com Material Design.
+
+✓ Fácil implementação no Bootstrap.
+
+✓ Escalabilidade para Desktop.Título
+
+ADR-005 – Grid Strategy
+
+Status
+
+Accepted
+
+Contexto
+
+O StudyFlow utiliza Bootstrap como framework CSS, porém adota a Grid do Material Design 3 como referência de design.
+
+Decisão
+
+O Design System utilizará:
+
+Mobile
+4 Columns
+
+Tablet
+8 Columns
+
+Desktop
+12 Columns
+
+A implementação poderá utilizar a Grid de 12 colunas do Bootstrap internamente, porém os layouts deverão respeitar a organização definida pelo Material Design.
+
+Consequências
+
+✓ Interface consistente.
+
+✓ Compatível com Material Design.
+
+✓ Fácil implementação no Bootstrap.
+
+✓ Escalabilidade para Desktop.
